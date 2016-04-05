@@ -1,0 +1,1 @@
+A javascript based server that listens for updates to Instagram and downloads them to a local folder.
